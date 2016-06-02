@@ -1,5 +1,11 @@
 # Springer Test Code Problem
 
+## Steps to setup/import the app into your IDE
+### This is a maven project, maven 3 must be installed in your system.
+### Using your prefered IDE, import this source code as a maven project.
+### Make sure you have Java 1.7 version in your system.
+
+
 ## How to run the app ?
 ### Initial entry point to run the application is Main.java file this class creates an CommandLineConsoleCanvas class and run it.
 ### Then you can type commands in the console.
